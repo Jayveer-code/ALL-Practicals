@@ -4,6 +4,9 @@
 #     list.append(i)
 # print(list)
     
-#Using List Comperhison
-l=[m for m in range(1,101)]#plese notice Same value in expression 
+# Using List Comperhison
+l=[m for m in range(1,101)]
 print(l)
+
+l2=[s*s for s in range(5+1)]
+print(l2)

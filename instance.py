@@ -1,3 +1,4 @@
+# just a normal class with instance attributes and methods but not an abstract class
 class car:
     def __init__(self):
         self.accelator=False
